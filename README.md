@@ -1,4 +1,4 @@
-# Flutter Calculator
+# Clean Calculator
 
 Basic calculator with clean UI that performs mathematics operations. This taught me about widgets fundamentals, state management, event handling, and user interface design.
 
